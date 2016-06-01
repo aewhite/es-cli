@@ -1,5 +1,8 @@
 #compdef es
 
+# Copyright (C) 2016 Andrew White
+# Distributed under the MIT LICENSE
+
 _es_headers_allocation() {
     compadd -S '' 'shards' 'disk.indices' 'disk.used' 'disk.avail' 'disk.total' 'disk.percent' 'host' 'ip' 'node'
 }

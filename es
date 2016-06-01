@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Copyright (C) 2016 Andrew White
+# Distributed under the MIT LICENSE
+
 source es_common.bash
 
 SERVER_URL=${ES_CLI_SERVER_URL:-"http://localhost:9200"}

@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Copyright (C) 2016 Andrew White
+# Distributed under the MIT LICENSE
+
 shopt -s extglob
 
 CAT_PARAMS=()
